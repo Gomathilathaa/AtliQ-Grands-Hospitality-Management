@@ -1,5 +1,5 @@
 # AtliQ-Grands-Hospitality-Management
-Business Intelligence
+Business Intelligence - [Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODljNGZkNDUtNDM4MC00NmZkLTlhY2MtYzAyZDRjNGZiODg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Overview
